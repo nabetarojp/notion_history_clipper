@@ -1,4 +1,4 @@
-# Notion Status Change Copier
+# Notion History Clipper
 
 このChrome拡張機能は、Notionページからステータス変更履歴をワンクリックでクリップボードにコピーすることができます。
 
